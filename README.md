@@ -53,3 +53,14 @@ Windows Security uses security intelligence, also known as definitions, to ident
 
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/9.png)
 
+
+------------------------------------
+
+How to Run a custom scan that only scans the files in the Downloads folder?
+
+Click Windows Start button and select Settings. Select Update & Security. Select Windows Security. Select Virus & threat protection. Select Scan options under the Quick scan button. Select Custom scan. Click Scan now. Select Downloads under This PC and click the Select Folder button. Click the Scan now button. Note: For this example, No files are present in the Downloads folder, the scan will not find anything to scan. In a custom scan, you can usually select specific files or folders to include in the scan. 
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/10.png)
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/11.png)
+

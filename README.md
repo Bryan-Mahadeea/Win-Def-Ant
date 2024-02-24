@@ -41,3 +41,15 @@ Windows Security uses security intelligence, also known as definitions, to ident
 2. You can view details for the most recent update to your threat definitions. Select Check for updates. This process could take a few minutes. When the update has completed, the Check for updates button will return, and you should notice that the last update time and date have changed. Select the back button to return to the Virus & threat protection screen.
 
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/7.png)
+
+
+------------------------------------
+
+1. Now we can run an antivirus scan. Click the Quick scan button on the Virus & threat protection screen. The scan will take several minutes to run. When complete, the Quick scan button will reappear. Click Threat history to view any recent findings
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/8.png)
+
+2. This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device. You then see files identified as potential threats but allowed to continue running.
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/9.png)
+

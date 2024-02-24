@@ -8,10 +8,10 @@ Access and review Windows Security Virus & threat protection. Windows Defender V
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/1.png)
 
 2. On the Windows Settings page, select Update & Security.
-3. 
+
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/2.png)
 
-4. Under Update & Security, select Windows Security.
+3. Under Update & Security, select Windows Security.
 
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/3.png)
 

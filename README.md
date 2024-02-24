@@ -1,6 +1,7 @@
-Windows Defender Antivirus Setup
+Windows Defender Antivirus Walkthrough and Setup
 
 Project description
+
 Access and review Windows Security Virus & threat protection. Windows Defender Virus & threat protection is a built-in security feature that scans for threats on your system.
 
 1. Click the Windows Start button and select Settings.

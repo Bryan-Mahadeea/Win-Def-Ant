@@ -28,3 +28,16 @@ Current threats: Here, you can see any threats that have been detected on your d
 Virus & threat protection settings: Here, you can access options for managing your virus and threat protection settings. You can customize your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.
 Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
 Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.
+
+
+------------------------------------
+
+Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.
+
+1. Under Virus & threat protection updates, select Check for updates.
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/6.png)
+
+2. You can view details for the most recent update to your threat definitions. Select Check for updates. This process could take a few minutes. When the update has completed, the Check for updates button will return, and you should notice that the last update time and date have changed. Select the back button to return to the Virus & threat protection screen.
+
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Def-Ant/blob/main/7.png)
